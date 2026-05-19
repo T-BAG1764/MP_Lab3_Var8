@@ -1,0 +1,12 @@
+{
+  "words": {
+    "hello": "привет",
+    "world": "мир"
+  },
+  "stats": {
+    "added": 2,
+    "edited": 0,
+    "tests_total": 1,
+    "tests_correct": 1
+  }
+}
